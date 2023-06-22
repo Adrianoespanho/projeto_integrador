@@ -1,0 +1,11 @@
+selcionar.php --> listagem dos alunos,botao para cadastrar um novo aluno
+
+novo.php --> formulário para cadastro de um novo aluno
+inserir -->realizar a inserção do bd 
+
+editar -->formulário com os dados do aluno preenchido pronto para modificação
+atualizar --> realizar a atualização dos dados no bd 
+
+delete.php -->pagina que realiza a exclusão dos dados no bd 
+
+visualizar.php --> pagina com os dados e um unico aluno
